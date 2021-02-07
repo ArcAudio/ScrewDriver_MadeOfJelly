@@ -17,18 +17,18 @@ There's some silly Tonnetz grid, that maps midi notes to a value on a a hexgrid 
 
 Faust/OpenGL/Juce:
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/7nH26ZVKpmQ/0.jpg)](http://www.youtube.com/watch?v=7nH26ZVKpmQ "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/7nH26ZVKpmQ/0.jpg)](http://www.youtube.com/watch?v=7nH26ZVKpmQ "Faust OpenGL Juce")
 
 just as a midi visualiser: 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/QT6ViUUIdZ0/0.jpg)](http://www.youtube.com/watch?v=QT6ViUUIdZ0 "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/QT6ViUUIdZ0/0.jpg)](http://www.youtube.com/watch?v=QT6ViUUIdZ0 "Midi Visualiser")
 
 I got bored with Juce and openGL and went on to trying it out with hardware using Faust2Teensy: 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/yQpNf6XPNZA/0.jpg)](http://www.youtube.com/watch?v=yQpNf6XPNZA "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/yQpNf6XPNZA/0.jpg)](http://www.youtube.com/watch?v=yQpNf6XPNZA "Faust2Teensy")
 
 Which has now evolved to this using Faust2Daisy, and the FX chain has got slightly more complex: 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/7Nbb8VqF5pY/0.jpg)](http://www.youtube.com/watch?v=7Nbb8VqF5pY "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/7Nbb8VqF5pY/0.jpg)](http://www.youtube.com/watch?v=7Nbb8VqF5pY "Faust2Daisy")
 
 License is to thrill. Do what you want, experiment/dissect/remix etc.  
