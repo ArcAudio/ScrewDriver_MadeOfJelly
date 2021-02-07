@@ -17,18 +17,18 @@ There's some silly Tonnetz grid, that maps midi notes to a value on a a hexgrid 
 
 Faust/OpenGL/Juce:
 
-https://youtu.be/7nH26ZVKpmQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7nH26ZVKpmQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 just as a midi visualiser: 
 
-https://youtu.be/QT6ViUUIdZ0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QT6ViUUIdZ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I got bored with Juce and openGL and went on to trying it out with hardware using Faust2Teensy: 
 
-https://youtu.be/yQpNf6XPNZA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yQpNf6XPNZA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Which has now evolved to this using Faust2Daisy, and the FX chain has got slightly more complex: 
 
-https://www.youtube.com/watch?v=7Nbb8VqF5pY&t=1s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Nbb8VqF5pY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 License is to thrill. Do what you want, experiment/dissect/remix etc.  
